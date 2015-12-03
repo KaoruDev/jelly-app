@@ -1,0 +1,3 @@
+[submodule "Jelly"]
+	path = Jelly
+	url = https://github.com/KaoruDev/Jelly.git
